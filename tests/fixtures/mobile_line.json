@@ -1,0 +1,7 @@
+{
+  "valid": true,
+  "line_type_intelligence": {
+    "type": "mobile",
+    "carrier_name": "Example Carrier"
+  }
+}
