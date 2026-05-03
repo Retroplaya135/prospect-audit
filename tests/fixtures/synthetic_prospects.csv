@@ -1,0 +1,3 @@
+record_id,website,phone
+example-valid,https://example.test/,+12025550100
+example-invalid,https://invalid.example/,not-a-number
